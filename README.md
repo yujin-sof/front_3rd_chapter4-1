@@ -2,7 +2,7 @@
 
 ## 개요
 
-![ex_workflow](./app/img/workflow.png)
+![eworkflow](./app/img/workflow.png)
 GitHub Actions에 작성된 워크플로우는 다음과 같이 배포가 진행되도록 합니다.
 
 1. 저장소를 체크아웃합니다.
